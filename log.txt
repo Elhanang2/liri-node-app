@@ -1,0 +1,134 @@
+********  Do What it says  **********
+
+
+*********    Wed Aug 08 2018 13:53:25 GMT-0700 (Pacific Daylight Time)    ********
+user input : do-what-it-says
+user input : 
+********  LOG SONG INFO  **********
+
+
+*********    Wed Aug 08 2018 13:53:25 GMT-0700 (Pacific Daylight Time)    ********
+user input : spotify-this-song
+user input : I Want it That Way
+
+Artist(s) : Backstreet Boys
+The song's name : I Want It That Way
+A preview link of the song : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+The album that the song is from : The Hits--Chapter One
+********  Do What it says  **********
+
+
+*********    Wed Aug 08 2018 13:57:53 GMT-0700 (Pacific Daylight Time)    ********
+user input : do-what-it-says
+user input : 
+********  LOG SONG INFO  **********
+
+
+*********    Wed Aug 08 2018 13:57:53 GMT-0700 (Pacific Daylight Time)    ********
+user input   : spotify-this-song
+parameters : from random.txt
+Artist(s) : Backstreet Boys
+The song's name : I Want It That Way
+A preview link of the song : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+The album that the song is from : The Hits--Chapter One
+********  LOG SONG INFO  **********
+
+
+*********    Wed Aug 08 2018 14:00:12 GMT-0700 (Pacific Daylight Time)    ********
+user input : spotify-this-song
+Default : The sign
+
+Artist(s) : Ace of Base
+The song's name : The Sign
+A preview link of the song : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+The album that the song is from : The Sign (US Album) [Remastered]
+
+********  LOG SONG INFO  **********
+
+
+*********    Wed Aug 08 2018 14:07:28 GMT-0700 (Pacific Daylight Time)    ********
+user input   : spotify-this-song
+parameters : from random.txt
+
+Artist(s) : Craig Morgan
+The song's name : Almost Home
+A preview link of the song : https://open.spotify.com/track/6FW9MTGMjR5A6q2o7PLuuz
+The album that the song is from : I Love It
+
+********  LOG SONG INFO  **********
+
+
+*********    Wed Aug 08 2018 14:08:04 GMT-0700 (Pacific Daylight Time)    ********
+user input   : spotify-this-song
+parameters : from random.txt
+
+Artist(s) : Mariah Carey
+The song's name : Always Be My Baby
+A preview link of the song : https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x
+The album that the song is from : Daydream
+
+
+********  LOG MY TWEEETS  **********
+
+*********    Wed Aug 08 2018 14:08:45 GMT-0700 (Pacific Daylight Time)    ********
+
+my-tweets
+
+
+1. Tweet: Did you know, you can run @nodejs  in @IBM_CICS?  More options in the #DigitalTransformation journey for #mainframe… https://t.co/XwsakkKlUC
+2. Tweet: @nodejs Very insightful article, all Javascript front-end framework developers can easily learn and use node.js aft… https://t.co/uikPz45ZgI
+3. Tweet: I’ve always wanted to see #nodejs in action. @nodejs https://t.co/0MXRSueADT
+4. Tweet: SO PROUD to announce that my 19yr old son, Avery Vann, won a full scholarship for the $13,500 12wk javascript cours… https://t.co/71LKMG2l14
+5. Tweet: David just helped me get set up to contribute to the @pmproplugin #Gutenberg blocks project.
+✔️ Installed @nodejs… https://t.co/aqYbhV8vkl
+6. Tweet: Would be great to see students learning about #nodejs, and hopefully becoming future contributors/collaborators. https://t.co/R6PWSzaIhb
+7. Tweet: "Contributing back to #nodejs is the most important area of work for my team." - @gauravseth✨ More on why contribut… https://t.co/35W3ymXxd1
+8. Tweet: Positive and passive feedback is ✨ SUUUUUPER ✨ encouraging for OSS projects 💖 https://t.co/qlqAThsGLY
+9. Tweet: Achievement unlocked: Contributing to a @nodejs based open source project.
+10. Tweet: 1️⃣ Anna Henningsen (@addaleax) has over the last 2 years been one of the most active contributors to @nodejs core.… https://t.co/LPixkC39bW
+11. Tweet: Hey, everyone working on @nodejs core tests and continuous integration! Congratulations on a full week of node-dail… https://t.co/a08f0KFZh0
+12. Tweet: @nodejs I see you've decided to go green ;)
+13. Tweet: Put out some more #sfnode stickers at the @nodejs booth at #nodesummit Kudos to @ladyleet for the awesome design https://t.co/YkJtrjXfFt
+14. Tweet: Here are the slides from my #NodeSummit presentation on the optimization of @nodejs services in @awscloud that we'v… https://t.co/k9CdaAfrue
+15. Tweet: #Mentorship is about exchanging advice &amp; expertise -@patriciarealini It’s listening -@Tzmanics It’s volunteering &amp;… https://t.co/BzT5EQds4R
+16. Tweet: I love being able to spend more time and conversations in person with my @nodejs fam 🤗 
+
+thx @jasnell for being on… https://t.co/R5Cmcwn3KF
+19. Tweet: Taranveer from #IBM talks about extensible frameworks @NodeSummit on day 1 https://t.co/BUjqEmQs4c
+17. Tweet: "A rising tie raises all boats" @patriciarealini talking about the importance of enabling minorities in our communities #NodeSummit
+18. Tweet: @nodejs @NodeSummit @ladyleet Looks like opou upside down :)
+20. Tweet: @jasnell Eagerly waiting to watch the videos when they're posted online.
+I couldn't find @NodeSummit channel on You… https://t.co/BajPnLat6o
+
+
+********  LOG MOVIE  **********
+
+*********    Wed Aug 08 2018 14:09:49 GMT-0700 (Pacific Daylight Time)    ********
+
+user input : movie-this
+Default : Mr.Nobody
+
+Title : Mr. Nobody
+Release Year  : 2009
+Rrating : R
+Rotten tomatoes Ratings : 66%
+Country where the movie was produced : Belgium, Germany, Canada, France, USA, UK
+Language : English, Mohawk
+Plotes : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actores : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+********  LOG MOVIE  **********
+
+*********    Wed Aug 08 2018 14:10:22 GMT-0700 (Pacific Daylight Time)    ********
+
+user input : movie-this
+user input : inception
+
+Title : Inception
+Release Year  : 2010
+Rrating : PG-13
+Rotten tomatoes Ratings : 86%
+Country where the movie was produced : USA, UK
+Language : English, Japanese, French
+Plotes : A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+Actores : Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
